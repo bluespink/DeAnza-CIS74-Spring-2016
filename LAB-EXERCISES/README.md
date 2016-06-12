@@ -7,3 +7,5 @@ This folder contains solutions to weekly lab exercises.
 - Lab **5** - Automating Web Tests Using Selenium IDE
 - Lab **6** - Modifying a Selenium/WebDriver/Pytest Test Case
 - Lab **7** - Doing Chapter 6 Practice 1a using AllPairs
+- Lab **8** -
+- Lab **9** - Crowdtesting via RainforestQA

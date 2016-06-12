@@ -1,4 +1,4 @@
-#CIS74: Lab Exercises 
+##CIS74: Lab Exercises 
 This folder contains solutions to weekly lab exercises.
 - Lab **1** - Finding a Bug and Creating a Bugzilla Report
 - Lab **2** - Using a Link Checker to Find Broken Links

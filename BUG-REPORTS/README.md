@@ -1,6 +1,6 @@
 ##Bug Reporting via Bugzilla
 
-You will be finding and reporting bugs via Bugzilla throughout the first half of this course. To submit bugs for grading, you must copy/paste the URL needed for me to easily view your five best bugs.
+You will be finding and reporting bugs via Bugzilla throughout the first half of this course. To submit bugs for grading, you must copy/paste the URL needed for me to easily view your five **best** bugs.
 
 Your grade for this work will be based on:
 

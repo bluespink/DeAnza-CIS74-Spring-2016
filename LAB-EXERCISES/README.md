@@ -5,3 +5,4 @@ This folder contains solutions to weekly lab exercises.
 - Lab **3** - Visual Testing of a Web Page Using BrowserStack's Screenshots
 - Lab **4** - Accessibility Testing of a Web Page Using WAVE Assignment
 - Lab **5** - Automating Web Tests Using Selenium IDE
+- Lab **6** - Modifying a Selenium/WebDriver/Pytest Test Case

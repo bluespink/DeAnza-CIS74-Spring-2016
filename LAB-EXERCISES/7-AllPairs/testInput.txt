@@ -1,7 +1,0 @@
-States	Accounts	Customers
-CA	checkings	consumers
-NV	savings 	VICs     
-UT	mortgages	business
-ID	consumerLoans	non-profits
-AZ	commercialLoans	
-NM		

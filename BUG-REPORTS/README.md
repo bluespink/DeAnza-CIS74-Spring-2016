@@ -1,4 +1,5 @@
 ##Bug Reporting via Bugzilla
+####Instructions from the instructor:
 
 You will be finding and reporting bugs via Bugzilla throughout the first half of this course. Submit your five **best** bugs.
 

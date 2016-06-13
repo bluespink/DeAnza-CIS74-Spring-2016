@@ -9,5 +9,5 @@ This folder contains solutions to weekly lab exercises.
 - Lab **7** - Doing Chapter 6 Practice 1a using AllPairs
 - Lab **8** - GitHub
 - Lab **9** - Crowdtesting via RainforestQA
-- Lab **10** -
-- Lab **11** -
+- Lab **10** - Creating a GitHub Repository of CIS-74 Coursework
+

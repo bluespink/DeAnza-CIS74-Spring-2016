@@ -1,4 +1,5 @@
 ##Lab Exercise: Modifying a Selenium/WebDriver/Pytest Test Case
+####Instructions from the instructor:
 
 In this exercise, you will be exposed to Selenium/WebDriver with Python test case automation via a simple modification of a test case written by me. Your main challenge will probably be installation of all the components needed to run my test!
 

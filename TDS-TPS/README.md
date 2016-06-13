@@ -16,8 +16,8 @@ Once your TDS is complete, write a **Test Procedure Specification** (TPS) for ju
 
 **Grading criteria for this assignment:**
 
-    Coverage completeness of test cases
-    Clarity of test case summaries in TDS
-    Clarity of steps to execute in TPS
-    Absence of errors!
-    Adherence to formal outlines of TDS and TPS
+- Coverage completeness of test cases
+- Clarity of test case summaries in TDS
+- Clarity of steps to execute in TPS
+- Absence of errors!
+- Adherence to formal outlines of TDS and TPS

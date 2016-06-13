@@ -1,4 +1,5 @@
 ##Writing a Test Design Specification & Modified Test Procedure Specification
+####Instructions from the instructor:
 
 Write a formal **Test Design Specification** that follows the outline on pages 192-193 of your textbook:
 

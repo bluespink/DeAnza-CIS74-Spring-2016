@@ -2,7 +2,6 @@
 ####Instructions from the instructor:
 
 You will be finding and reporting bugs via Bugzilla throughout the first half of this course. Submit your five **best** bugs.
-
 Your grade for this work will be based on:
 - Quantity (-20 for every missing bug if fewer than 5 are submitted)
 - Completeness (every relevant field should be utilized)

@@ -1,7 +1,7 @@
 ##TestRail Test Suite
 ####Instructions from the instructor:
 
-Create a **Section** under any of our 3 **Projects** you wish, using the following naming scheme: *LastName-FirstName_SectionName**. LastName should be your last name as it appears in Catalyst; the same is true for FirstName. You can choose any string you want for SectionName.
+Create a **Section** under any of our 3 **Projects** you wish, using the following naming scheme: *LastName-FirstName_SectionName*. LastName should be your last name as it appears in Catalyst; the same is true for FirstName. You can choose any string you want for SectionName.
 
 Populate your **Section** with at least six test cases, each of which includes **Steps** and **Expected Result**. You may create sub-sections if you think they are needed for better organization.
 

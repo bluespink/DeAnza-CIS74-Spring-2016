@@ -6,3 +6,4 @@ This repository is a collection of my coursework for CIS74 *Computer Software Qu
 - **Meetup Review**: Technical Meetup One-Page Review
 - **Midterm**: Midterm Selenium Question
 - **TDS/TPS**: Test Design Specification & Modified Test Procedure Specification
+- **Test Case Management**: TestRail Test Suite 
